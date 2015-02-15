@@ -1,0 +1,5 @@
+C:\Users\scottyboi\Documents\jquery\code\IntroAsync\materials\materials\3-m3-designs-and-patterns-exercise-files\exercise-files\after\Netflix-Par-PLINQ\top10\bin\Release\top10.exe
+C:\Users\scottyboi\Documents\jquery\code\IntroAsync\materials\materials\3-m3-designs-and-patterns-exercise-files\exercise-files\after\Netflix-Par-PLINQ\top10\bin\Release\top10.pdb
+C:\Users\scottyboi\Documents\jquery\code\IntroAsync\materials\materials\3-m3-designs-and-patterns-exercise-files\exercise-files\after\Netflix-Par-PLINQ\top10\obj\Release\top10ParLinq.csprojResolveAssemblyReference.cache
+C:\Users\scottyboi\Documents\jquery\code\IntroAsync\materials\materials\3-m3-designs-and-patterns-exercise-files\exercise-files\after\Netflix-Par-PLINQ\top10\obj\Release\top10.exe
+C:\Users\scottyboi\Documents\jquery\code\IntroAsync\materials\materials\3-m3-designs-and-patterns-exercise-files\exercise-files\after\Netflix-Par-PLINQ\top10\obj\Release\top10.pdb
