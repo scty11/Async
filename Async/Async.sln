@@ -3,92 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "top10ConcurrentDictionary", "..\..\..\jquery\code\IntroAsync\materials\materials\3-m3-designs-and-patterns-exercise-files\exercise-files\after\Netflix-Par-ConcurrentDictionary\top10\top10ConcurrentDictionary.csproj", "{B36EC52D-4CA0-4B76-AA90-B31649B3E1C0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingAsync", "..\..\AsyncExamples - Copy\TestingAsync\TestingAsync\TestingAsync.csproj", "{44C59197-BACD-445F-8036-5A671F782EE9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "top10ProComuser", "..\..\..\jquery\code\IntroAsync\materials\materials\3-m3-designs-and-patterns-exercise-files\exercise-files\after\Netflix-Par-Producer-Consumer\top10\top10ProComuser.csproj", "{73B75426-C5CF-4C3B-AD38-48AB0038A57D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "top10MapReduce", "..\..\..\jquery\code\IntroAsync\materials\materials\3-m3-designs-and-patterns-exercise-files\exercise-files\after\Netflix-Par-MapReduce\top10\top10MapReduce.csproj", "{FC3A0249-FC7C-4AC4-AB8D-45864BD53370}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "top10ParLinq", "..\..\..\jquery\code\IntroAsync\materials\materials\3-m3-designs-and-patterns-exercise-files\exercise-files\after\Netflix-Par-PLINQ\top10\top10ParLinq.csproj", "{AEACA699-5D63-468C-A4A3-98061498F5CC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockHistory", "..\..\..\jquery\code\IntroAsync\materials\materials\3-m3-designs-and-patterns-exercise-files\exercise-files\after\StockHistory-ParFromAsync\StockHistory\StockHistory.csproj", "{9EC5BFF5-E29B-4581-9EB9-C05E446EC527}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "top10", "..\..\..\jquery\code\IntroAsync\materials\materials\3-m3-designs-and-patterns-exercise-files\exercise-files\after\Netflix-Par-FileChunk-LessStrict\top10\top10.csproj", "{D0B03331-BBD2-430A-AD7C-C0629062C66E}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{19465F95-85B9-4C7C-8DDB-27037AE6B786}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder2", "NewFolder2", "{00027390-D988-4D4A-A326-E3664DD3720A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingAsync", "TestingAsync\TestingAsync.csproj", "{44C59197-BACD-445F-8036-5A671F782EE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
-		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
-		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B36EC52D-4CA0-4B76-AA90-B31649B3E1C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B36EC52D-4CA0-4B76-AA90-B31649B3E1C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B36EC52D-4CA0-4B76-AA90-B31649B3E1C0}.Debug|x86.ActiveCfg = Debug|x86
-		{B36EC52D-4CA0-4B76-AA90-B31649B3E1C0}.Debug|x86.Build.0 = Debug|x86
-		{B36EC52D-4CA0-4B76-AA90-B31649B3E1C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B36EC52D-4CA0-4B76-AA90-B31649B3E1C0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B36EC52D-4CA0-4B76-AA90-B31649B3E1C0}.Release|x86.ActiveCfg = Release|x86
-		{B36EC52D-4CA0-4B76-AA90-B31649B3E1C0}.Release|x86.Build.0 = Release|x86
 		{44C59197-BACD-445F-8036-5A671F782EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{44C59197-BACD-445F-8036-5A671F782EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{44C59197-BACD-445F-8036-5A671F782EE9}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{44C59197-BACD-445F-8036-5A671F782EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44C59197-BACD-445F-8036-5A671F782EE9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{44C59197-BACD-445F-8036-5A671F782EE9}.Release|x86.ActiveCfg = Release|Any CPU
-		{73B75426-C5CF-4C3B-AD38-48AB0038A57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{73B75426-C5CF-4C3B-AD38-48AB0038A57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{73B75426-C5CF-4C3B-AD38-48AB0038A57D}.Debug|x86.ActiveCfg = Debug|x86
-		{73B75426-C5CF-4C3B-AD38-48AB0038A57D}.Debug|x86.Build.0 = Debug|x86
-		{73B75426-C5CF-4C3B-AD38-48AB0038A57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{73B75426-C5CF-4C3B-AD38-48AB0038A57D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{73B75426-C5CF-4C3B-AD38-48AB0038A57D}.Release|x86.ActiveCfg = Release|x86
-		{73B75426-C5CF-4C3B-AD38-48AB0038A57D}.Release|x86.Build.0 = Release|x86
-		{FC3A0249-FC7C-4AC4-AB8D-45864BD53370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FC3A0249-FC7C-4AC4-AB8D-45864BD53370}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FC3A0249-FC7C-4AC4-AB8D-45864BD53370}.Debug|x86.ActiveCfg = Debug|x86
-		{FC3A0249-FC7C-4AC4-AB8D-45864BD53370}.Debug|x86.Build.0 = Debug|x86
-		{FC3A0249-FC7C-4AC4-AB8D-45864BD53370}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FC3A0249-FC7C-4AC4-AB8D-45864BD53370}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FC3A0249-FC7C-4AC4-AB8D-45864BD53370}.Release|x86.ActiveCfg = Release|x86
-		{FC3A0249-FC7C-4AC4-AB8D-45864BD53370}.Release|x86.Build.0 = Release|x86
-		{AEACA699-5D63-468C-A4A3-98061498F5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AEACA699-5D63-468C-A4A3-98061498F5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AEACA699-5D63-468C-A4A3-98061498F5CC}.Debug|x86.ActiveCfg = Debug|x86
-		{AEACA699-5D63-468C-A4A3-98061498F5CC}.Debug|x86.Build.0 = Debug|x86
-		{AEACA699-5D63-468C-A4A3-98061498F5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AEACA699-5D63-468C-A4A3-98061498F5CC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AEACA699-5D63-468C-A4A3-98061498F5CC}.Release|x86.ActiveCfg = Release|x86
-		{AEACA699-5D63-468C-A4A3-98061498F5CC}.Release|x86.Build.0 = Release|x86
-		{9EC5BFF5-E29B-4581-9EB9-C05E446EC527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9EC5BFF5-E29B-4581-9EB9-C05E446EC527}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9EC5BFF5-E29B-4581-9EB9-C05E446EC527}.Debug|x86.ActiveCfg = Debug|x86
-		{9EC5BFF5-E29B-4581-9EB9-C05E446EC527}.Debug|x86.Build.0 = Debug|x86
-		{9EC5BFF5-E29B-4581-9EB9-C05E446EC527}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9EC5BFF5-E29B-4581-9EB9-C05E446EC527}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9EC5BFF5-E29B-4581-9EB9-C05E446EC527}.Release|x86.ActiveCfg = Release|x86
-		{9EC5BFF5-E29B-4581-9EB9-C05E446EC527}.Release|x86.Build.0 = Release|x86
-		{D0B03331-BBD2-430A-AD7C-C0629062C66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D0B03331-BBD2-430A-AD7C-C0629062C66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D0B03331-BBD2-430A-AD7C-C0629062C66E}.Debug|x86.ActiveCfg = Debug|x86
-		{D0B03331-BBD2-430A-AD7C-C0629062C66E}.Debug|x86.Build.0 = Debug|x86
-		{D0B03331-BBD2-430A-AD7C-C0629062C66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D0B03331-BBD2-430A-AD7C-C0629062C66E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D0B03331-BBD2-430A-AD7C-C0629062C66E}.Release|x86.ActiveCfg = Release|x86
-		{D0B03331-BBD2-430A-AD7C-C0629062C66E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{44C59197-BACD-445F-8036-5A671F782EE9} = {00027390-D988-4D4A-A326-E3664DD3720A}
-		{9EC5BFF5-E29B-4581-9EB9-C05E446EC527} = {19465F95-85B9-4C7C-8DDB-27037AE6B786}
 	EndGlobalSection
 EndGlobal
