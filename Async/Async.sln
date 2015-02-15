@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockHistory", "..\..\..\jq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "top10", "..\..\..\jquery\code\IntroAsync\materials\materials\3-m3-designs-and-patterns-exercise-files\exercise-files\after\Netflix-Par-FileChunk-LessStrict\top10\top10.csproj", "{D0B03331-BBD2-430A-AD7C-C0629062C66E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{19465F95-85B9-4C7C-8DDB-27037AE6B786}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder2", "NewFolder2", "{00027390-D988-4D4A-A326-E3664DD3720A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -82,5 +86,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{44C59197-BACD-445F-8036-5A671F782EE9} = {00027390-D988-4D4A-A326-E3664DD3720A}
+		{9EC5BFF5-E29B-4581-9EB9-C05E446EC527} = {19465F95-85B9-4C7C-8DDB-27037AE6B786}
 	EndGlobalSection
 EndGlobal
