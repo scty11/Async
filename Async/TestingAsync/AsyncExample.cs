@@ -12,6 +12,7 @@ namespace TestingAsync
          
         public static void Example()
         {
+            //these do not block.
             Console.WriteLine("Returned");
             var r = GetTitleCsAsync(
                 "http://www.pluralsight-training.net/microsoft/Products/Individual");
